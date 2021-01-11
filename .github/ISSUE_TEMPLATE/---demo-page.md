@@ -1,5 +1,5 @@
 ---
-name: "\U0001F680 Demo Page for "
+name: "\U0001F3D7 Demo Page for "
 about: A new demo page to be added
 title: 'Demo page: section; description'
 labels: ''
